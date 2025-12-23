@@ -6,7 +6,7 @@ Interactive dashboard creation - using EXCEL
 This project focuses on analyzing **customer shopping behavior** using an Excel/CSV dataset.  
 The objective is to uncover insights related to **customer demographics, purchase patterns, product preferences, and seasonal trends** to support data-driven business decisions.
 
-## 📂 Dataset Information
+## Dataset Information
 - **File Name:**      Shopping_Behavior (CSV)
 - **Total Records:**  3,900
 - **Total Features:** 19
@@ -27,7 +27,7 @@ The objective is to uncover insights related to **customer demographics, purchas
 
 > **Dataset Used :** <a href="https://github.com/Pavankumar-Bishnu/Shopping-Behavior-Excel-Project_2-/blob/main/Shopping_Behavior%20(%20CSV%20).csv"> Click Now </a>
 
-## 🎯 Objectives
+## Objectives &  Insights :
 - Understand customer demographics and buying behavior
 - Identify high-performing product categories
 - Analyze seasonal purchase trends
@@ -35,8 +35,6 @@ The objective is to uncover insights related to **customer demographics, purchas
 - Prepare insights suitable for dashboards and reporting
 
 ![Cust_DSBD.png](https://github.com/Pavankumar-Bishnu/Shopping-Behavior-Excel-Project_2-/blob/main/Cust_DSBD.png)
-
-## 📊Customers Key Insights
 
 **Customer Demographics** :
 - The dataset has 3,900 records and 19 features covering demographics, transaction, and behavioral fields.
@@ -60,7 +58,6 @@ The objective is to uncover insights related to **customer demographics, purchas
 
 ![Cust_DSBD.png](https://github.com/Pavankumar-Bishnu/Shopping-Behavior-Excel-Project_2-/blob/main/Sales_DSBD.png)
 
-## 📊Sales Key Insights
 
  **Revenue Drivers**            :
 - Clothing is the main revenue driver (about 104k USD), followed by accessories (about 74k), then footwear and outerwear.
@@ -86,4 +83,5 @@ The objective is to uncover insights related to **customer demographics, purchas
 
 ## 📌 Final Conclusion
 
-The Shopping Behavior dataset reveals a stable and repeat-driven customer base dominated by young to middle-aged adults with a preference for clothing, mid-range pricing, and seasonal shopping patterns. The insights suggest strong potential for personalized marketing, inventory optimization, and loyalty programs. By leveraging these patterns, businesses can enhance customer retention, revenue growth, and operational efficiency through targeted and data-driven strategies.
+- The Shopping Behavior dataset reveals a stable and repeat-driven customer base dominated by young to middle-aged adults with a preference for clothing, mid-range pricing, and seasonal shopping patterns. 
+- The insights suggest strong potential for personalized marketing, inventory optimization, and loyalty programs. By leveraging these patterns, businesses can enhance customer retention, revenue growth, and operational efficiency through targeted and data-driven strategies.
