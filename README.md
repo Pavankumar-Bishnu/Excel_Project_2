@@ -34,7 +34,7 @@ The objective is to uncover insights related to **customer demographics, purchas
 - Provide actionable business recommendations
 - Prepare insights suitable for dashboards and reporting
 
-![Cust_DSBD.png](https://github.com/Pavankumar-Bishnu/Shopping-Behavior-Excel-Project_2-/blob/main/Cust_DSBD.png)
+![Cust_DSBD.png](https://github.com/Pavankumar-Bishnu/Excel_Project_2/blob/main/Cust%20DSBD.png)
 
 **Customer Demographics** :
 - The dataset has 3,900 records and 19 features covering demographics, transaction, and behavioral fields.
@@ -56,7 +56,7 @@ The objective is to uncover insights related to **customer demographics, purchas
 - Most customers are not subscribed (about 2,847 vs 1,053 subscribed), highlighting an opportunity to grow subscription adoption.
 - Payment methods are very balanced across PayPal, credit card, cash, debit card, Venmo, and bank transfer (each roughly 600–680 records), implying flexible payment preferences without a single dominant method.
 
-![Cust_DSBD.png](https://github.com/Pavankumar-Bishnu/Shopping-Behavior-Excel-Project_2-/blob/main/Sales_DSBD.png)
+![Cust_DSBD.png](https://github.com/Pavankumar-Bishnu/Excel_Project_2/blob/main/Sales%20DSBD.png)
 
 
  **Revenue Drivers**            :
@@ -79,7 +79,7 @@ The objective is to uncover insights related to **customer demographics, purchas
 ## 🛠️ Tools & Technologies
 - **Excel / CSV**
 - **Git & GitHub**
-> **Interactive Dashboard File :** <a href="https://github.com/Pavankumar-Bishnu/Shopping-Behavior-Excel-Project_2-/blob/main/Shopping_Behavior%20(%20Dashboard%20).xlsx"> Click Now </a>
+> **Interactive Dashboard File :** <a href="https://github.com/Pavankumar-Bishnu/Excel_Project_2/blob/main/Shopping_Behavior%20(%20Dashboard%20).xlsx"> Click Now </a>
 
 ## 📌 Final Conclusion
 
